@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://lively-glacier-034436b10.4.azurestaticapps.net/:path*",
+      "permanent": false
+    }
+  ]
+}
